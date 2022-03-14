@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋🏻 
 
+I am **Mostafa Nafie** a **Software Engineer** in **iOS**.
+
+I have always loved technology, and started programming since the age of 14.
+With a demonstrated experience of working in **Agile**, **fast-paced environments**, dealing with clients in USA 🇺🇸, KSA 🇸🇦, and Egypt 🇪🇬, and **making people's life a bit better** in 🇺🇸🇸🇦🇪🇬🇰🇪🇵🇰🇦🇷.
 <!--
 **MostafaNafie/MostafaNafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨🏻‍💻 Currently working on revolutionizing public transport globaly @[Swvl](https://www.swvl.com/) 🚐.
+- ✉️ Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/mostafanafie/).
+- 📄 For more details checkout my [**resume**](https://nafie.herokuapp.com/resume.html).
+- 📒 Also you can check my [Blog](https://nafie.herokuapp.com/), where I am sharing my thoughts and learnings about different topics.
