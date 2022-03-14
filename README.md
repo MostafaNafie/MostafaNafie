@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 Currently working on revolutionizing public transport globaly @[Swvl](https://www.swvl.com/) 🚐.
 - ✉️ Feel free to reach me out on [LinkedIn](https://www.linkedin.com/in/mostafanafie/).
-- 📄 For more details checkout my [**resume**](https://nafie.herokuapp.com/resume.html).
+- 🔖 For more details checkout my [Resume](https://nafie.herokuapp.com/resume.html).
 - 📒 Also you can check my [Blog](https://nafie.herokuapp.com/), where I am sharing my thoughts and learnings about different topics.
