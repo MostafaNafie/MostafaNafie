@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🔖 For more details checkout my [Resume](https://nafie.herokuapp.com/resume.html).
 - 📒 Also you can check my [Blog](https://nafie.herokuapp.com/) where I am sharing my thoughts and learnings about different topics.
 
-# Blog posts
+#### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Why Start A Personal Website?](https://nafie.herokuapp.com//blog/why-start-a-personal-website)
 <!-- BLOG-POST-LIST:END -->
