@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - ✉️ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mostafanafie/).
 - 🔖 For more details checkout my [Resume](https://nafie.herokuapp.com/resume.html).
 - 📒 Also you can check my [Blog](https://nafie.herokuapp.com/) where I am sharing my thoughts and learnings about different topics.
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
