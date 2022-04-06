@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Why Start A Personal Website?](https://nafie.herokuapp.com//blog/why-start-a-personal-website)
+- [Why Start A Personal Website?](https://nafie.herokuapp.com/blog/why-start-a-personal-website)
 <!-- BLOG-POST-LIST:END -->
