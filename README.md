@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Makes a High Quality App?](https://nafie.herokuapp.com/blog/what-makes-high-quality-app)
 - [Why Start A Personal Website?](https://nafie.herokuapp.com/blog/why-start-a-personal-website)
 <!-- BLOG-POST-LIST:END -->
