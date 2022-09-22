@@ -11,7 +11,7 @@ I have always loved technology, and started programming since the age of 14. Wit
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Your First App Ever](https://nafie.herokuapp.com/blog/your-first-app-ever)
-- [What Makes a High Quality App?](https://nafie.herokuapp.com/blog/what-makes-high-quality-app)
-- [Why Start A Personal Website?](https://nafie.herokuapp.com/blog/why-start-a-personal-website)
+- [Your First App Ever](https://nafie.dev/blog/your-first-app-ever)
+- [What Makes a High Quality App?](https://nafie.dev/blog/what-makes-high-quality-app)
+- [Why Start A Personal Website?](https://nafie.dev/blog/why-start-a-personal-website)
 <!-- BLOG-POST-LIST:END -->
