@@ -7,7 +7,7 @@ I have always loved technology, and started programming since the age of 14. Wit
 - 👨🏻‍💻 Currently working on revolutionizing public transport globally @[Swvl](https://www.swvl.com/) 🚐.
 - ✉️ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mostafanafie/).
 - 🔖 For more details checkout my [Resume](https://nafie.herokuapp.com/resume.html).
-- 📒 Also you can check my [Blog](https://nafie.dev/) where I am sharing my thoughts and learnings about different topics.
+- 📒 Also you can check my [blog](https://nafie.dev/) where I am sharing my thoughts and learnings about different topics.
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
