@@ -10,6 +10,7 @@ I have always loved technology and started programming at the age of 14. With a 
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Vision Pro - Initial thoughts](https://nafie.dev/blog/apple-vision-pro-initial-thoughts)
 - [Your First App Ever](https://nafie.dev/blog/your-first-app-ever)
 - [What Makes a High Quality App?](https://nafie.dev/blog/what-makes-high-quality-app)
 - [Why Start A Personal Website?](https://nafie.dev/blog/why-start-a-personal-website)
