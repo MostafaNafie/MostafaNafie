@@ -2,7 +2,7 @@
 
 I am **Mostafa Nafie** a **Senior Software Engineer** in **iOS**.
 
-I have always loved technology and started programming at the age of 14. With a demonstrated experience in **designing, developing, testing, deploying and maintaining scalable applications** for the iOS platform, working in **agile, fast-paced environments**, dealing with clients and teams from the USA 🇺🇸, Germany 🇩🇪, KSA 🇸🇦, and Egypt 🇪🇬, and **making people's life a bit better** all over the world 🌍.
+With a passion for technology from a young age, I started my programming journey at 14. Accumulating years of professional experience, I've worked in **two unicorn companies**, broadening my insights in the tech sector. Experienced in **designing, developing, testing, deploying, and maintaining scalable applications** in fast-paced, agile environments, collaborating with diverse teams across the USA 🇺🇸, Germany 🇩🇪, UAE 🇦🇪, KSA 🇸🇦, and Egypt 🇪🇬, to **serve users globally** 🌍.
 
 - ✉️ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mostafanafie/).
 - 🔖 For more details check out my [Resume](https://www.nafie.dev/resume).
