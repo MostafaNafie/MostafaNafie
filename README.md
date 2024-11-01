@@ -1,8 +1,8 @@
 ### Hi there 👋🏻 
 
-I am **Mostafa Nafie** a **Senior Software Engineer** in **iOS**.
+I am **Mostafa Nafie** a **Staff Software Engineer** in **iOS**.
 
-With a passion for technology from a young age, I started my programming journey at 14. Accumulating years of professional experience, I've worked in **two unicorn companies**, broadening my insights in the tech sector. Experienced in **designing, developing, testing, deploying, and maintaining scalable applications** in fast-paced, agile environments, collaborating with diverse teams across the USA 🇺🇸, Germany 🇩🇪, UAE 🇦🇪, KSA 🇸🇦, and Egypt 🇪🇬, to **serve users globally** 🌍.
+With a passion for technology from a young age, I began my programming journey at 14. Over the years, I’ve gained professional experience working in multiple companies, including **two unicorns** 🦄🦄, which broadened my insights in the tech sector. Experienced in **designing, developing, testing, deploying, and maintaining scalable applications** in fast-paced, agile environments, collaborating with diverse teams across the USA 🇺🇸, Germany 🇩🇪, UAE 🇦🇪, KSA 🇸🇦, and Egypt 🇪🇬, to **serve users globally** 🌍.
 
 - ✉️ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mostafanafie/).
 - 🔖 For more details check out my [Resume](https://www.nafie.dev/resume).
