@@ -6,7 +6,7 @@ With a passion for technology from a young age, I began my programming journey a
 
 - ✉️ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/mostafanafie/).
 - 🔖 For more details check out my [Resume](https://www.nafie.dev/resume).
-- 📒 Also you can check my [Blog](https://www.nafie.dev/) where I am sharing my thoughts and learnings about different topics.
+- 📒 Check out my [Blog](https://www.nafie.dev/), where I share my thoughts and learnings on various topics.
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
